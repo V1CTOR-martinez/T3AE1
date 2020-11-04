@@ -1,4 +1,8 @@
 Víctor Martínez Zapata
+<<<<<<< HEAD
 
 user2
+=======
+user1
+>>>>>>> 9cb1a9ef707e14bdd6687565ab00a0a974655002
 ======================
